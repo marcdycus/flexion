@@ -1,0 +1,32 @@
+body {
+    background-image: url("../images/windows_xp_bliss-wide.jpg");
+    background-repeat: none;
+    background-size: cover;
+    font-family: 'Cairo', sans-serif;
+    font-size: 24px;
+    color: white;
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: 700;
+    width: 100%;
+    text-align: center;
+    color: white;
+    margin-top: 25px;
+    margin-bottom: 10px; 
+    line-height: 70px;
+    text-shadow: 5px 5px 3px #333;
+}
+
+button {
+    font-size: 20px;
+    margin-right: 10px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 3px #333;
+}
+
+.quest {
+    text-shadow: 2px 2px 3px #333;
+}
+

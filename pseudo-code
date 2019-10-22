@@ -1,0 +1,18 @@
+game object {
+
+    questions and answers array
+
+    method for start timer/game
+
+    method for updating answers
+
+    method for choosing trivia question
+
+    method for clear timer
+
+    method for guessing right
+
+    method for guessing wrong
+
+
+}
